@@ -1,4 +1,5 @@
 * Chop things
+* also chop onion
 * squeeze things
 * Add salt
 * Mix well
